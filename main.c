@@ -3,6 +3,5 @@
 int main()
 {
     printf("Hello world.\n");
-    getchar();
     return 0;
 }
